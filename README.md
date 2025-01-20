@@ -1,1 +1,1 @@
-# Time-Series-Forecasting-with-TimeGPT
+# Time-Series-Forecasting-with-TimeGPT-and-Nixtla-API
