@@ -20,3 +20,12 @@ We utilize the Nixtla API to access and fine-tune the TimeGPT model, a state-of-
 The results demonstrate that TimeGPT is almost 5 times better than the LGBM model in terms of forecasting accuracy. This highlights the potential of TimeGPT as a superior tool for time series forecasting, especially for long-term predictions. By leveraging the Nixtla API, organizations can achieve high-quality forecasts with minimal effort, significantly reducing the need for specialized data science teams.
 
 This project showcases the power of TimeGPT in real-world applications, from electricity demand forecasting to stock price predictions, and provides valuable insights into the future of time series modeling.
+
+## Summary
+
+- **Developed time series forecasting models** using the Nixtla API (TimeGPT) and Light Gradient-Boosting Machine (LGBM) to predict Australian electricity demand and Amazon stock prices.
+- **Fine-tuned TimeGPT** for accurate long-term forecasting, outperforming LGBM by nearly 5x in prediction accuracy.
+- **Preprocessed and prepared datasets** for New South Wales electricity demand and Amazon stock prices, ensuring data quality for model training.
+- **Evaluated model performance** using metrics such as MAE, RMSE, and SMAPE to assess the accuracy and robustness of both models.
+- **Leveraged the Nixtla API** for seamless integration of TimeGPT, significantly reducing the need for specialized machine learning expertise and optimizing forecasting workflows.
+- **Demonstrated the power of foundational models like TimeGPT** in real-world applications, enhancing forecasting accuracy and decision-making for businesses.
